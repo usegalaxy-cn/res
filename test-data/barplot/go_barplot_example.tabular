@@ -1,0 +1,37 @@
+ID	Description	GeneNumber	type	logfdc
+GO:0007507	heart development	102	biological_process	1.96302382964709e-07
+GO:0035239	tube morphogenesis	76	biological_process	1.04316644122169e-06
+GO:0048732	gland development	83	biological_process	1.50692716404791e-05
+GO:0072001	renal system development	62	biological_process	1.50692716404791e-05
+GO:0001655	urogenital system development	66	biological_process	3.38673044649255e-05
+GO:0060562	epithelial tube morphogenesis	65	biological_process	3.38673044649255e-05
+GO:0060840	artery development	26	biological_process	3.38673044649255e-05
+GO:0001822	kidney development	58	biological_process	3.38673044649255e-05
+GO:0061138	morphogenesis of a branching epithelium	43	biological_process	0.000111042128713096
+GO:0006367	transcription initiation from RNA polymerase II promoter	42	biological_process	0.000111042128713096
+GO:0001763	morphogenesis of a branching structure	45	biological_process	0.000111262472940855
+GO:0030323	respiratory tube development	42	biological_process	0.000118369097336948
+GO:0007409	axonogenesis	79	biological_process	0.000118369097336948
+GO:0061564	axon development	84	biological_process	0.000118369097336948
+GO:0007411	axon guidance	49	biological_process	0.000124867533861024
+GO:0030324	lung development	41	biological_process	0.00013734119961979
+GO:0097485	neuron projection guidance	49	biological_process	0.000139992200566033
+GO:0055024	regulation of cardiac muscle tissue development	22	biological_process	0.000139992200566033
+GO:0035265	organ growth	36	biological_process	0.000139992200566033
+GO:0060537	muscle tissue development	68	biological_process	0.000142093252201532
+GO:0005667	transcription factor complex	60	cellular_component	0.000643846698328604
+GO:0005911	cell-cell junction	73	cellular_component	0.000643846698328604
+GO:0005912	adherens junction	81	cellular_component	0.00333406915709288
+GO:0031248	protein acetyltransferase complex	23	cellular_component	0.00837974086314578
+GO:0000982	transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding	78	molecular_function	1.70063111999925e-06
+GO:0001159	core promoter proximal region DNA binding	72	molecular_function	8.1881516238176e-06
+GO:0051020	GTPase binding	69	molecular_function	8.1881516238176e-06
+GO:0000978	RNA polymerase II core promoter proximal region sequence-specific DNA binding	69	molecular_function	8.1881516238176e-06
+GO:0001228	transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding	72	molecular_function	8.92312785465157e-06
+GO:0031267	small GTPase binding	64	molecular_function	8.92312785465157e-06
+GO:0000987	core promoter proximal region sequence-specific DNA binding	70	molecular_function	9.0236170748906e-06
+GO:0017016	Ras GTPase binding	60	molecular_function	1.30252703132894e-05
+GO:0003713	transcription coactivator activity	61	molecular_function	3.8146145221014e-05
+GO:0005057	signal transducer activity, downstream of receptor	36	molecular_function	6.24761759916682e-05
+GO:0008013	beta-catenin binding	24	molecular_function	0.000115018005975854
+GO:0008565	protein transporter activity	27	molecular_function	0.000183198088460507
